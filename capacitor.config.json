@@ -1,0 +1,7 @@
+{
+  "appId": "com.nightwatch.app",
+  "appName": "Night Watch",
+  "webDir": "www",
+  "backgroundColor": "#070707",
+  "android": { "allowMixedContent": false }
+}
